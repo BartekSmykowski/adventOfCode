@@ -2,48 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e212d5d1-b378-473f-9234-53be0fb5f591" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day11/Coordinates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day11/Day11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day11/Directions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day11/input.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day11/input2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/util/FilesReader.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/util/FilesReader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2015/Day1.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2015/Day1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2015/Day2.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2015/Day2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2015/Day25.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2015/Day25.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day1.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/Day10.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/Day10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashList.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashListPrinter.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashListPrinter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day2.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day3.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day4/Day4.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day4/Day4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day5/Day5.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day5/Day5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day6/Day6.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day6/Day6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/Day7.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/Day7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Forest.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Forest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Node.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Printers/ForestPrinter.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Printers/ForestPrinter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Printers/TreePrinter.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Printers/TreePrinter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Tree.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/Tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/TreeBalancer.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day7/tree/TreeBalancer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day8/Condition.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day8/Condition.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day8/Day8.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day8/Day8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day8/Register.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day8/Register.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day8/RegistersContainer.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day8/RegistersContainer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/Day9.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/Day9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/EntityPrinter.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/EntityPrinter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/EntityScoreCounter.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/EntityScoreCounter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/GarbageLettersCounter.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/GarbageLettersCounter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/Processor.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/Processor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/entities/CharProcessor.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/entities/CharProcessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/entities/Entity.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/entities/Entity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/entities/Garbage.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/entities/Garbage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/entities/Group.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day9/entities/Group.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day12/BFS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day12/Day12.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day12/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day12/input.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1_03-12-17.iml" afterPath="$PROJECT_DIR$/1_03-12-17.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,18 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Day10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day10/Day10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Directions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day11/Directions.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,16 +41,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FilesReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/util/FilesReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -124,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Coordinates.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Coordinates.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day11/Coordinates.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="748">
@@ -139,36 +80,68 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashListPrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day10/HashListPrinter.java">
+      <file leaf-file-name="Day12.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day12/Day12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="174">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day10/HashList.java">
+      <file leaf-file-name="BFS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day12/BFS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="188">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day10/input.txt">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day12/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="50" lean-forward="false" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+            <state relative-caret-position="401">
+              <caret line="1999" column="18" lean-forward="false" selection-start-line="1999" selection-start-column="18" selection-end-line="1999" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day12/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,8 +152,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -206,8 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/util/FilesReader.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/SecondDay.java" />
         <option value="$PROJECT_DIR$/src/Day2.java" />
         <option value="$PROJECT_DIR$/src/Day5/Day5.java" />
@@ -255,6 +226,10 @@
         <option value="$PROJECT_DIR$/src/year2017/Day11/input2.txt" />
         <option value="$PROJECT_DIR$/src/year2017/Day11/Coordinates.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day11/Day11.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day12/input.txt" />
+        <option value="$PROJECT_DIR$/src/year2017/Day12/BFS.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day12/Node.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day12/Day12.java" />
       </list>
     </option>
   </component>
@@ -376,7 +351,7 @@
               <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="year2017" type="462c0819:PsiDirectoryNode" />
-              <item name="Day11" type="462c0819:PsiDirectoryNode" />
+              <item name="Day12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -406,7 +381,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day11">
+  <component name="RunManager" selected="Application.Day12">
     <configuration name="Day10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -445,14 +420,14 @@
       <module name="1_03-12-17" />
       <envs />
     </configuration>
-    <configuration name="Day2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Day12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="year2017.*" />
+          <option name="PATTERN" value="year2017.Day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="year2015.Day2" />
+      <option name="MAIN_CLASS_NAME" value="year2017.Day12.Day12" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -596,18 +571,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Day7" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Day2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Day9" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Day10" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Day11" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Day9" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Day10" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Day11" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Day12" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Day11" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Day10" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Day9" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Day7" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Day2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Day12" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Day11" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Day10" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Day9" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Day7" />
       </list>
     </recent_temporary>
   </component>
@@ -629,7 +604,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -639,7 +613,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31445605" sideWeight="0.4969325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31445605" sideWeight="0.4969325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -709,39 +683,11 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="52" />
+      <option name="time" value="54" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/FilesReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/year2017/Day1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -890,13 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/year2017/Day2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1012,9 +951,9 @@
         <state relative-caret-position="272">
           <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1036#1037#0" expanded="false" />
+            <element signature="e#1071#1072#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1032,7 +971,7 @@
         <state relative-caret-position="68">
           <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1088,6 +1027,62 @@
             <element signature="e#1367#1368#0" expanded="true" />
             <element signature="e#1541#1542#0" expanded="true" />
             <element signature="e#1567#1568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day12/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="1999" column="18" lean-forward="false" selection-start-line="1999" selection-start-column="18" selection-end-line="1999" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day12/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day12/BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day12/Day12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
