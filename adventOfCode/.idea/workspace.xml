@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e212d5d1-b378-473f-9234-53be0fb5f591" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day13/Day13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day13/Layer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day13/input.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day14/Day14.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/KnotHash.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day14/Day14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day10/KnotHash.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day14/Disc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day14/DiscLine.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/year2017/Day10/HashList.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/Day10.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/Day10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashListPrinter.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashListPrinter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day10/Day10.java" afterPath="$PROJECT_DIR$/src/year2017/Day10/Day10.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day10/HashListPrinter.java" afterPath="$PROJECT_DIR$/src/year2017/Day10/HashListPrinter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day14/Day14.java" afterPath="$PROJECT_DIR$/src/year2017/Day14/Day14.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,18 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Day12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day12/Day12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Day13.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day13/Day13.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,31 +63,72 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day14.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Day14.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day14/Day14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="119">
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day10/HashList.java">
+      <file leaf-file-name="Disc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day14/Disc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="599">
+              <caret line="60" column="25" lean-forward="true" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1473#1474#0" expanded="true" />
+                <element signature="e#1500#1501#0" expanded="true" />
+                <element signature="e#1549#1550#0" expanded="true" />
+                <element signature="e#1581#1582#0" expanded="true" />
+                <element signature="e#3692#3693#0" expanded="true" />
+                <element signature="e#3730#3731#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day10.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiscLine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day14/DiscLine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="905">
+              <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#1984#1985#0" expanded="true" />
+                <element signature="e#2011#2012#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KnotHash.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day10/KnotHash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+              <folding>
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#2813#2814#0" expanded="true" />
+                <element signature="e#2842#2843#0" expanded="true" />
+                <element signature="e#2875#2876#0" expanded="true" />
+                <element signature="e#2904#2905#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day10.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day10/Day10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="21" column="62" lean-forward="false" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -107,28 +144,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day1.java">
+      <file leaf-file-name="HashListPrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day10/HashListPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="442">
+              <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BFS.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day12/BFS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -166,10 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Day4/Day4.java" />
-        <option value="$PROJECT_DIR$/src/Day6/Day6.java" />
-        <option value="$PROJECT_DIR$/src/Day7/tree/Printers/ForestPrinter.java" />
-        <option value="$PROJECT_DIR$/src/Day7/tree/Forest.java" />
         <option value="$PROJECT_DIR$/src/Day7/tree/Tree.java" />
         <option value="$PROJECT_DIR$/src/Day7/tree/Node.java" />
         <option value="$PROJECT_DIR$/src/Day7/tree/TreeBallancer.java" />
@@ -202,9 +219,7 @@
         <option value="$PROJECT_DIR$/src/year2017/Day9/GarbageLettersCounter.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day9/input.txt" />
         <option value="$PROJECT_DIR$/src/year2017/Day10/HashListPrinter.java" />
-        <option value="$PROJECT_DIR$/src/year2017/Day10/HashList.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day10/input.txt" />
-        <option value="$PROJECT_DIR$/src/year2017/Day10/Day10.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day11/Directions.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day11/input.txt" />
         <option value="$PROJECT_DIR$/src/year2017/Day11/input2.txt" />
@@ -217,6 +232,12 @@
         <option value="$PROJECT_DIR$/src/year2017/Day13/Layer.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day13/Day13.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day13/input.txt" />
+        <option value="$PROJECT_DIR$/src/year2017/Day10/HashList.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day14/DiscLine.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day10/Day10.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day10/KnotHash.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day14/Disc.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day14/Day14.java" />
       </list>
     </option>
   </component>
@@ -334,7 +355,7 @@
               <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="year2017" type="462c0819:PsiDirectoryNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
+              <item name="Day14" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -367,7 +388,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day13">
+  <component name="RunManager" selected="Application.Day14">
     <configuration name="Day10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -444,14 +465,14 @@
       <module name="1_03-12-17" />
       <envs />
     </configuration>
-    <configuration name="Day9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Day14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="year2017.Day9.*" />
+          <option name="PATTERN" value="year2017.Day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="year2017.Day9.Day9" />
+      <option name="MAIN_CLASS_NAME" value="year2017.Day14.Day14" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -556,19 +577,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Day9" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Day10" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Day11" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Day12" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Day13" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Day10" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Day11" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Day12" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Day13" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Day14" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Day13" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Day12" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Day11" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Day10" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Day9" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Day14" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Day10" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Day13" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Day12" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Day11" />
       </list>
     </recent_temporary>
   </component>
@@ -590,6 +611,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -675,19 +697,11 @@
           <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="58" />
+      <option name="time" value="60" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/javafx-src.zip!/javafx/scene/input/ZoomEvent.java" />
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day5/Day5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/year2017/Day4/Day4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1156">
@@ -902,13 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day10/HashListPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/util/FilesReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -943,7 +950,7 @@
         <state relative-caret-position="442">
           <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -953,10 +960,10 @@
         <state relative-caret-position="1037">
           <caret line="72" column="19" lean-forward="false" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
           <folding>
-            <element signature="e#1314#1315#0" expanded="true" />
-            <element signature="e#1367#1368#0" expanded="true" />
-            <element signature="e#1541#1542#0" expanded="true" />
-            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="false" />
+            <element signature="e#1367#1368#0" expanded="false" />
+            <element signature="e#1541#1542#0" expanded="false" />
+            <element signature="e#1567#1568#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -974,13 +981,13 @@
         <state relative-caret-position="306">
           <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+            <element signature="e#362#363#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#419#420#0" expanded="false" />
+            <element signature="e#444#445#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -990,11 +997,11 @@
         <state relative-caret-position="323">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#306#307#0" expanded="false" />
+            <element signature="e#343#344#0" expanded="false" />
+            <element signature="e#591#592#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1004,7 +1011,7 @@
         <state relative-caret-position="476">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1043,22 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day14/Day14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day10/HashList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/year2017/Day10/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1067,10 +1058,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day10/HashListPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/year2017/Day10/Day10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="21" column="62" lean-forward="false" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day10/KnotHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#2813#2814#0" expanded="true" />
+            <element signature="e#2842#2843#0" expanded="true" />
+            <element signature="e#2875#2876#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day14/DiscLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="905">
+          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#1984#1985#0" expanded="true" />
+            <element signature="e#2011#2012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day14/Disc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="60" column="25" lean-forward="true" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
+            <element signature="e#1549#1550#0" expanded="true" />
+            <element signature="e#1581#1582#0" expanded="true" />
+            <element signature="e#3692#3693#0" expanded="true" />
+            <element signature="e#3730#3731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day14/Day14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>

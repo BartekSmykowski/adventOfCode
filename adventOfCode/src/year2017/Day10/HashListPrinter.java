@@ -3,9 +3,9 @@ package year2017.Day10;
 import java.util.List;
 
 public class HashListPrinter {
-    private HashList hashList;
+    private KnotHash hashList;
 
-    public HashListPrinter(HashList list){
+    public HashListPrinter(KnotHash list){
         this.hashList = list;
     }
 
