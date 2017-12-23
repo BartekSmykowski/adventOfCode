@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e212d5d1-b378-473f-9234-53be0fb5f591" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/KnotHash.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day14/Day14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day10/KnotHash.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day14/Disc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day14/DiscLine.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/year2017/Day10/HashList.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/Day10.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/Day10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashListPrinter.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day10/HashListPrinter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day15/Day15.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day15/Generator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day10/Day10.java" afterPath="$PROJECT_DIR$/src/year2017/Day10/Day10.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day10/HashListPrinter.java" afterPath="$PROJECT_DIR$/src/year2017/Day10/HashListPrinter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day14/Day14.java" afterPath="$PROJECT_DIR$/src/year2017/Day14/Day14.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,28 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Day13.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day13/Day13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="43" column="55" lean-forward="false" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Layer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day13/Layer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="46" column="20" lean-forward="false" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day13/input.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,12 +31,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day14.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Day14.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day14/Day14.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day15.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day15/Day15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Generator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/year2017/Day15/Generator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <folding>
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -187,8 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Day7/tree/Tree.java" />
-        <option value="$PROJECT_DIR$/src/Day7/tree/Node.java" />
         <option value="$PROJECT_DIR$/src/Day7/tree/TreeBallancer.java" />
         <option value="$PROJECT_DIR$/src/Day7/tree/TreeBalance.java" />
         <option value="$PROJECT_DIR$/src/Day7/tree/TreeBalancer.java" />
@@ -238,6 +229,8 @@
         <option value="$PROJECT_DIR$/src/year2017/Day10/KnotHash.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day14/Disc.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day14/Day14.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day15/Generator.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day15/Day15.java" />
       </list>
     </option>
   </component>
@@ -355,7 +348,7 @@
               <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="year2017" type="462c0819:PsiDirectoryNode" />
-              <item name="Day14" type="462c0819:PsiDirectoryNode" />
+              <item name="Day15" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -388,7 +381,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day14">
+  <component name="RunManager" selected="Application.Day15">
     <configuration name="Day10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -397,25 +390,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="year2017.Day10.Day10" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="1_03-12-17" />
-      <envs />
-    </configuration>
-    <configuration name="Day11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="year2017.Day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="year2017.Day11.Day11" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -473,6 +447,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="year2017.Day14.Day14" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="1_03-12-17" />
+      <envs />
+    </configuration>
+    <configuration name="Day15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="year2017.Day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="year2017.Day15.Day15" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -578,18 +571,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Day10" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Day11" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Day12" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Day13" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Day14" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Day12" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Day13" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Day14" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Day15" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Day14" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Day10" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Day13" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Day12" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Day11" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Day15" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Day14" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Day10" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Day13" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Day12" />
       </list>
     </recent_temporary>
   </component>
@@ -702,20 +695,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day4/Day4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day6/Day6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/year2017/Day7/tree/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -1123,6 +1102,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day15/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day15/Day15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding />
         </state>
       </provider>
