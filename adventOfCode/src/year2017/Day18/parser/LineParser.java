@@ -1,15 +1,16 @@
 package year2017.Day18.parser;
 
 import year2017.Day18.orders.*;
+import year2017.Day18.programs.Program;
 import year2017.Day18.registers.Register;
 import year2017.Day18.registers.Registers;
 
 public class LineParser {
 
-    public static void parseLine(String line, Registers registers, Orders orders){
+    public static Order parseLine(String line, Program program){
         String[] tokens = line.split(" ");
 
-        addRegisters(registers, tokens);
+        addRegisters(program.gerRegisters(), tokens);
 
         Order newOrder;
         if(tokens[0].equals("snd")){
@@ -25,12 +26,12 @@ public class LineParser {
         } else if(tokens[0].equals("rcv")){
             newOrder = new ReceiveOrder(tokens[1].charAt(0));
         }  else if(tokens[0].equals("jgz")){
-            newOrder = new JumpOrder(new Value(tokens[1]), new Value(tokens[2]), orders);
+            newOrder = new JumpOrder(new Value(tokens[1]), new Value(tokens[2]), program);
         } else {
             throw new InvalidLineException(line);
         }
 
-        orders.addOrder(newOrder);
+        return newOrder;
     }
 
     private static void addRegisters(Registers registers, String[] tokens) {

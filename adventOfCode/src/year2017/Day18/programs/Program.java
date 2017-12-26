@@ -19,22 +19,26 @@ public class Program {
     private int currentPosition;
     private boolean stop;
 
-
     public Program(int id){
         this.id = id;
-        registers = new Registers();
-        Register pRegister = new Register('p');
-        pRegister.setValue(id);
-        registers.addRegister(pRegister);
+        initRegisters(id);
         orders = new Orders();
         queue = new LinkedList<>();
         currentPosition = 0;
         stop = false;
     }
 
-    public void parseLine(String line){
-        LineParser.parseLine(line, registers, orders);
+    private void initRegisters(int id) {
+        registers = new Registers();
+        Register pRegister = new Register('p');
+        pRegister.setValue(id);
+        registers.addRegister(pRegister);
     }
+
+    public void parseLine(String line){
+        orders.addOrder(LineParser.parseLine(line, this));
+    }
+
     public void executeOrders(){
         while(!stop){
             executeNextOrder();
@@ -45,7 +49,7 @@ public class Program {
         if(stop)
             return;
         Order order = orders.getOrder(currentPosition);
-        System.out.println(currentPosition + ": " + order.toString());
+        System.out.println(id + ": " + currentPosition + ": " + order.toString());
         if(order instanceof ReceiveOrder) {
             stop = true;
             System.out.println(registers.getLastPlayed());
@@ -57,6 +61,14 @@ public class Program {
 
     public void jump(int offset) {
         currentPosition += offset;
+    }
+
+    public Registers gerRegisters() {
+        return registers;
+    }
+
+    public boolean isStopped(){
+        return stop;
     }
 
 }

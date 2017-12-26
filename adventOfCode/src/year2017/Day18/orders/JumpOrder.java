@@ -1,22 +1,23 @@
 package year2017.Day18.orders;
 
+import year2017.Day18.programs.Program;
 import year2017.Day18.registers.Registers;
 
 public class JumpOrder implements Order {
     private Value threshold;
     private Value offset;
-    private Orders orders;
+    private Program program;
 
-    public JumpOrder(Value threshold, Value offset, Orders orders) {
+    public JumpOrder(Value threshold, Value offset, Program program) {
         this.threshold = threshold;
         this.offset = offset;
-        this.orders = orders;
+        this.program = program;
     }
 
     @Override
     public void execute(Registers registers) {
         if(threshold.getValue(registers) > 0)
-            orders.jump((int) (offset.getValue(registers) - 1));
+            program.jump((int) (offset.getValue(registers) - 1));
     }
 
     public String toString(){

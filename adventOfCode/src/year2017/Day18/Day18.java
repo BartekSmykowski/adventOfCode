@@ -1,9 +1,7 @@
 package year2017.Day18;
 
 import util.FilesReader;
-import year2017.Day18.orders.Orders;
-import year2017.Day18.parser.LineParser;
-import year2017.Day18.registers.Registers;
+import year2017.Day18.programs.Programs;
 
 import java.util.List;
 
@@ -13,14 +11,9 @@ public class Day18 {
         String path = "src/year2017/Day18/input.txt";
         List<String> lines = FilesReader.getLines(path);
 
-        Registers registers = new Registers();
-        Orders orders = new Orders();
+        Programs programs = new Programs(lines);
 
-        for(String line:lines){
-            LineParser.parseLine(line, registers, orders);
-        }
-
-        orders.executeOrders(registers);
+        programs.executePrograms();
     }
 
 }
