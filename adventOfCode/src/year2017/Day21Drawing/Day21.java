@@ -13,12 +13,15 @@ public class Day21 {
         Rules rules = new Rules(lines);
         Drawing drawing = new Drawing(rules);
         drawing.print();
-        for(int i = 0; i < 3; i++){
+        for(int i = 1; i <= 18; i++){
             drawing.evolve();
-            //drawing.print();
-            System.out.println(i);
+            System.out.println(drawing.getPixelsMap().size());
+            //System.out.println(i);
         }
+        //drawing.print();
+        System.out.println(drawing.getPixelsMap().size());
         System.out.println(drawing.numberOfOn());
+
     }
 
 }

@@ -52,9 +52,9 @@ public class Drawing {
         } else if(pixelsMapSize % 3 == 0){
             split = 3;
         }
-        for(int i = 0; i < pixelsMapSize/split; i++){
+        for(int j = 0; j < pixelsMapSize/split; j++){
             List<PixelsMap> row = new ArrayList<>();
-            for(int j = 0; j < pixelsMapSize/split; j++){
+            for(int i = 0; i < pixelsMapSize/split; i++){
                 row.add(pixelsMap.getFragment(new Coordinates(i*split, j*split), split));
             }
             splited.add(row);
@@ -82,4 +82,7 @@ public class Drawing {
         return pixelsMap.numberOfOn();
     }
 
+    public PixelsMap getPixelsMap() {
+        return pixelsMap;
+    }
 }

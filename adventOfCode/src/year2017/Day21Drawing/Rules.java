@@ -16,9 +16,6 @@ public class Rules {
     public PixelsMap getOutput(PixelsMap input){
         for(Rule rule : rules){
             if(rule.compareToInput(input)) {
-                System.out.println("--------------");
-                input.print();
-                rule.getInput().print();
                 return rule.getOutput();
             }
         }

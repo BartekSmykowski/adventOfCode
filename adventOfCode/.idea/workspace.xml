@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e212d5d1-b378-473f-9234-53be0fb5f591" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/Coordinates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/Drawing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/PixelsMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/Rule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/Rules.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day21Drawing/Day21.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day21Drawing/Day21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day21Drawing/Drawing.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day21Drawing/Drawing.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day21Drawing/Rule.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day21Drawing/Rule.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day21Drawing/Rules.class" afterPath="$PROJECT_DIR$/out/production/1_03-12-17/year2017/Day21Drawing/Rules.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day21Drawing/Coordinates.java" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/Coordinates.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day21Drawing/Day21.java" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/Day21.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day21Drawing/Drawing.java" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/Drawing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day21Drawing/Rule.java" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/Rule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/year2017/Day21Drawing/Rules.java" afterPath="$PROJECT_DIR$/src/year2017/Day21Drawing/Rules.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,20 +40,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Particles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/year2017/Day20ParticleSwarm/Particles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="40" column="14" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2279#2280#0" expanded="true" />
-                <element signature="e#2318#2319#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day20ParticleSwarm/input.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -65,8 +53,8 @@
       <file leaf-file-name="Day21.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Day21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="156">
+              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,8 +65,8 @@
       <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1336">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="349">
+              <caret line="107" column="34" lean-forward="false" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -87,26 +75,33 @@
       <file leaf-file-name="Drawing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Drawing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-539">
-              <caret line="25" column="53" lean-forward="false" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+            <state relative-caret-position="666">
+              <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2306#2307#0" expanded="true" />
-                <element signature="e#2339#2340#0" expanded="true" />
+                <element signature="e#2453#2454#0" expanded="true" />
+                <element signature="e#2485#2486#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rule.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Day25.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/year2015/Day25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-51">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rule.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Rule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
-              <folding>
-                <element signature="e#873#874#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="213">
+              <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,8 +109,8 @@
       <file leaf-file-name="Rules.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Rules.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            <state relative-caret-position="272">
+              <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,8 +121,8 @@
       <file leaf-file-name="PixelsMap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/PixelsMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-811">
-              <caret line="67" column="29" lean-forward="false" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+            <state relative-caret-position="2210">
+              <caret line="136" column="5" lean-forward="true" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,18 +133,9 @@
       <file leaf-file-name="Coordinates.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Coordinates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="326">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -237,13 +223,13 @@
         <option value="$PROJECT_DIR$/src/year2017/Day20ParticleSwarm/Particles.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day20ParticleSwarm/input.txt" />
         <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/Point.java" />
-        <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/Coordinates.java" />
-        <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/input.txt" />
         <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/PixelsMap.java" />
-        <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/Day21.java" />
-        <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/Drawing.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/Rule.java" />
         <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/Rules.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/Coordinates.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/Day21.java" />
+        <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/input.txt" />
+        <option value="$PROJECT_DIR$/src/year2017/Day21Drawing/Drawing.java" />
       </list>
     </option>
   </component>
@@ -338,6 +324,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -354,23 +344,18 @@
               <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="year2017" type="462c0819:PsiDirectoryNode" />
+              <item name="year2015" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="year2017" type="462c0819:PsiDirectoryNode" />
-              <item name="Day21Drawing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -399,26 +384,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day21">
-    <configuration name="Day17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="year2017.Day17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="year2017.Day17.Day17" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="1_03-12-17" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.Day25">
     <configuration name="Day18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -484,6 +450,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="year2017.Day21Drawing.Day21" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="1_03-12-17" />
+      <envs />
+    </configuration>
+    <configuration name="Day25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="year2015.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="year2015.Day25" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -588,19 +573,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Day17" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Day18" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Day19" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Day20" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Day21" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Day18" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Day19" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Day20" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Day21" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Day25" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Day21" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Day20" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Day19" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Day18" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Day17" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Day25" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Day21" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Day20" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Day19" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Day18" />
       </list>
     </recent_temporary>
   </component>
@@ -632,7 +617,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26229507" sideWeight="0.4969325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3919523" sideWeight="0.4969325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -713,13 +698,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day15/Day15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/year2017/Day16/Programs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
@@ -1018,67 +996,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Coordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1336">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Drawing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-539">
-          <caret line="25" column="53" lean-forward="false" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2306#2307#0" expanded="true" />
-            <element signature="e#2339#2340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/PixelsMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-811">
-          <caret line="67" column="29" lean-forward="false" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Day21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Rules.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="272">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1087,12 +1008,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Rule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        <state relative-caret-position="213">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/PixelsMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="136" column="5" lean-forward="true" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
           <folding>
-            <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Coordinates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Day21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="107" column="34" lean-forward="false" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2017/Day21Drawing/Drawing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2453#2454#0" expanded="true" />
+            <element signature="e#2485#2486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/year2015/Day25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

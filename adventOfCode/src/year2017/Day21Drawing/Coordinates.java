@@ -30,4 +30,5 @@ public class Coordinates {
     public void setX(int x) {
         this.x = x;
     }
+
 }

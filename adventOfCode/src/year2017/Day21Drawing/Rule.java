@@ -15,19 +15,20 @@ public class Rule {
     }
 
     public boolean compareToInput(PixelsMap compareMap){
-        if (sideCompare(compareMap)) return true;
-        if (sideCompare(compareMap)) return true;
+        PixelsMap inputCopy = new PixelsMap(input);
+        if (sideCompare(compareMap, inputCopy)) return true;
+        if (sideCompare(compareMap, inputCopy)) return true;
         return false;
     }
 
-    private boolean sideCompare(PixelsMap compareMap) {
+    private boolean sideCompare(PixelsMap compareMap, PixelsMap map) {
         for(int i = 0; i < 3; i++){
-            input.rotate();
-            if(compareMap.equals(input))
+            map.rotate();
+            if(compareMap.equals(map))
                 return true;
         }
-        input.flipX();
-        if(compareMap.equals(input))
+        map.flipX();
+        if(compareMap.equals(map))
             return true;
         return false;
     }
