@@ -9,10 +9,10 @@ public class MiniGolfRandom {
         for(int i = 0; i < 1; i++) {
             List<String> names = new ArrayList<>();
             List<Integer> scores = new ArrayList<>();
-            names.add("Marycha");
             names.add("Stachu");
             names.add("Bartek");
             names.add("Mati");
+            names.add("Jozio");
             while (!names.isEmpty()) {
                 int rand = (int) (Math.random() * (names.size()));
                 System.out.print(names.get(rand) + " ");
