@@ -1,25 +1,22 @@
 package util;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class MiniGolfRandom {
 
-    public static void random(){
-        for(int i = 0; i < 1; i++) {
-            List<String> names = new ArrayList<>();
-            List<Integer> scores = new ArrayList<>();
-            names.add("Stachu");
-            names.add("Bartek");
-            names.add("Mati");
-            names.add("Jozio");
-            while (!names.isEmpty()) {
-                int rand = (int) (Math.random() * (names.size()));
-                System.out.print(names.get(rand) + " ");
-                names.remove(rand);
-            }
-            System.out.println();
+    public static List<String> random(List<String> names){
+        List<String> tmp = new ArrayList<>(names);
+        List<String> result = new ArrayList<>();
+        while (!names.isEmpty()) {
+            int rand = (int) (Math.random() * (names.size()));
+            result.add(names.get(rand));
+            names.remove(rand);
         }
+        names.addAll(tmp);
+        return result;
     }
 
     public static void randomCourse(){
@@ -27,8 +24,18 @@ public class MiniGolfRandom {
     }
 
     public static void main(String[] args) {
-        random();
-        randomCourse();
+        List<String> names = new ArrayList<>();
+        names.add("aaa");
+        names.add("bbb");
+        Map<String, Integer> scores = new HashMap<>();
+        for(String name:names){
+            scores.put(name, 0);
+        }
+        for(int j = 0; j < 100; j++) {
+            List<String> randomNames = random(names);
+            System.out.println(randomNames);
+            randomCourse();
+        }
     }
 
 }

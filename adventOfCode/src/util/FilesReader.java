@@ -33,5 +33,4 @@ public class FilesReader {
         Path file = loadFile(path);
         return tryReadLines(file);
     }
-
 }
